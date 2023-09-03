@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: SpotifyToYoutubeMP3
+Version: 1.0
+Summary: An application that gets your Spotify songs and downloads the YoutubeMP3 version
+Author: Zach Li
+Author-email: lizach739.com
+Keywords: web flask
